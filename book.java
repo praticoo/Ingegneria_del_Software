@@ -1,8 +1,3 @@
-/*Usando la programmazione funzionale di Java, dato una lista lib di istanza di Libro, implementate una classe con: 
-1) un metodo che restituisce una lista dei pesi dei libri presenti in lib. 
-2) un metodo  che restituisce la lista concatenata della somma dei costi dei libri di ciascun genere di libri presenti in lib. 
-3) un metodo che restituisce il libro di genere Giallo, che ha il costo maggiore. 
-4) un metodo che restitusice la lista di autori delle istanze di lib senza ripetizione */
 package Programmazione.Book;
 
 public class book {
